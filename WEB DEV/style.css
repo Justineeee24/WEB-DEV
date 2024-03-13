@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+    text-align: center;
+    font-family: verdana;
+}
+.logo{
+    float: left;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+    font-size: 25px;
+    color: white;
+}
+.clickable{
+   float: right;
+   position: relative;
+   right: 40px;
+   bottom: 10px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    margin: 0 30px;
+    background: black;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+.link:hover{
+    background: white;
+    color: black;
+    box-shadow: 0px 0px 20px 0px white;
+}
+.dev{
+    position: relative;
+    top: 300px;
+    right: 22%;
+    font-size: 35px;
+    color: white;
+}
+.text1{
+    position: relative;
+    left: 25px;
+}
+.text2{
+    position: relative;
+    left: 10px;
+}
+.text3{
+    font-size: 18px;
+    position: relative;
+    right: 270px;
+    top: 50px;
+}
+.learn{
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    right: 18%;
+    top: 30px;
+}
+#learn{
+    display: inline-block;
+    background: black;
+    padding: 15px 30px;
+    position: relative;
+    left: 10px;
+    border-radius: 20px;
+}
+#learn:hover{
+    background: white;
+    color: black;
+    box-shadow: 0px 0px 20px 0px white;
+}
+#learn:active{
+    transform: scale(0.95);
+}
+.html{
+    margin-top: 30%;
+}
+.head{
+    font-size: 40px;
+    color: white;
+    background: transparent;
+    display: inline-block;
+    padding: 10px 30px;
+    border: 4px solid white;
+}
+#html{
+    margin-top: 50px;
+    font-size: 50px;
+    color: white;
+}
+.whatishtml{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.whatishtml2{
+    text-align: left;
+    position: relative;
+    left: 15%;
+    color: white;
+}
+#whatishtml2{
+    margin-top: 70px;
+}
